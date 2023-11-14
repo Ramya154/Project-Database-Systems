@@ -1,0 +1,23 @@
+<Locations>
+    <Location>
+        <LocationID>601</LocationID>
+        <LocationName>Main Headquarters</LocationName>
+        <Address>123 Eco Lane</Address>
+        <City>Portland</City>
+        <State>OR</State>
+    </Location>
+    <Location>
+        <LocationID>602</LocationID>
+        <LocationName>San Francisco Workshop</LocationName>
+        <Address>456 Green Avenue</Address>
+        <City>San Francisco</City>
+        <State>CA</State>
+    </Location>
+    <Location>
+        <LocationID>603</LocationID>
+        <LocationName>Austin Workshop</LocationName>
+        <Address>789 Eco Street</Address>
+        <City>Austin</City>
+        <State>TX</State>
+    </Location>
+</Locations>

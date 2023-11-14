@@ -1,0 +1,23 @@
+<Suppliers>
+    <Supplier>
+        <SupplierID>301</SupplierID>
+        <CompanyName>EcoWood Inc.</CompanyName>
+        <TypeOfMaterialsSupplied>Wood Products</TypeOfMaterialsSupplied>
+        <ContactInformation>supplier1@email.com</ContactInformation>
+        <SustainabilityCertification>Yes</SustainabilityCertification>
+    </Supplier>
+    <Supplier>
+        <SupplierID>302</SupplierID>
+        <CompanyName>Glass Innovators</CompanyName>
+        <TypeOfMaterialsSupplied>Glass Materials</TypeOfMaterialsSupplied>
+        <ContactInformation>supplier2@email.com</ContactInformation>
+        <SustainabilityCertification>Yes</SustainabilityCertification>
+    </Supplier>
+    <Supplier>
+        <SupplierID>303</SupplierID>
+        <CompanyName>Cotton Crafters</CompanyName>
+        <TypeOfMaterialsSupplied>Organic Textiles</TypeOfMaterialsSupplied>
+        <ContactInformation>supplier3@email.com</ContactInformation>
+        <SustainabilityCertification>Yes</SustainabilityCertification>
+    </Supplier>
+</Suppliers>

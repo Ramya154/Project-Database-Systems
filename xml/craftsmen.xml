@@ -1,0 +1,23 @@
+<Craftsmen>
+    <Craftsman>
+        <CraftsmanCraftswomanID>201</CraftsmanCraftswomanID>
+        <Name>John Smith</Name>
+        <SkillSet>Woodworking</SkillSet>
+        <ContactInformation>jsmith@email.com</ContactInformation>
+        <Location>Portland, OR</Location>
+    </Craftsman>
+    <Craftsman>
+        <CraftsmanCraftswomanID>202</CraftsmanCraftswomanID>
+        <Name>Lisa Johnson</Name>
+        <SkillSet>Glass Crafting</SkillSet>
+        <ContactInformation>ljohnson@email.com</ContactInformation>
+        <Location>San Francisco, CA</Location>
+    </Craftsman>
+    <Craftsman>
+        <CraftsmanCraftswomanID>203</CraftsmanCraftswomanID>
+        <Name>David Brown</Name>
+        <SkillSet>Textile Upholstery</SkillSet>
+        <ContactInformation>dbrown@email.com</ContactInformation>
+        <Location>Austin, TX</Location>
+    </Craftsman>
+</Craftsmen>

@@ -1,0 +1,23 @@
+<Products>
+    <Product>
+        <ProductID>101</ProductID>
+        <ProductName>Wooden Chair</ProductName>
+        <Description>Handcrafted wooden chair</Description>
+        <Price>49.99</Price>
+        <MaterialUsed>Wood</MaterialUsed>
+    </Product>
+    <Product>
+        <ProductID>102</ProductID>
+        <ProductName>Glass Coffee Table</ProductName>
+        <Description>Modern glass coffee table</Description>
+        <Price>79.99</Price>
+        <MaterialUsed>Glass</MaterialUsed>
+    </Product>
+    <Product>
+        <ProductID>103</ProductID>
+        <ProductName>Organic Pillow</ProductName>
+        <Description>Soft organic cotton pillow</Description>
+        <Price>19.99</Price>
+        <MaterialUsed>Organic Textile</MaterialUsed>
+    </Product>
+</Products>
