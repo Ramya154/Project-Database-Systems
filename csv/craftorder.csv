@@ -1,0 +1,4 @@
+OrderID,CustomerID,ProductID,OrderDate,OrderStatus
+401,1,101,8/11/2023,Shipped
+402,2,102,9/11/2023,Processing
+403,3,103,10/11/2023,Delivered

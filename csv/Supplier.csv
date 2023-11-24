@@ -1,4 +1,4 @@
-Supplier ID,Company Name,Type of Materials Supplied,Contact Information,Sustainability Certification
+SupplierID,CompanyName,TypeMaterials,Contact,Sustainable
 301,EcoWood Inc.,Wood Products,supplier1@email.com,Yes
 302,Glass Innovators,Glass Materials,supplier2@email.com,Yes
 303,Cotton Crafters,Organic Textiles,supplier3@email.com,Yes
